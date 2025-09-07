@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css");
+
+/* color RSE #702552
+
+/* css styles */
+
+.boton {
+  display: inline-block;
+  margin-top: 8px; /* espacio con el texto anterior */
+  padding: 8px 14px; /* más cómodo para hacer clic */
+  background-color: #e2d3dc;
+  color: #702552;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
+.boton:hover {
+  background-color: #9a6685; /* color más oscuro al pasar el mouse */
+}
+
+.navbar-nav .nav-link:hover {
+  color: #d4bdcb !important;
+}
+
+.navbar-brand:hover {
+  color: #d4bdcb !important;
+}
+
+.navbar-nav .nav-link.active {
+  background-color: #9a6685; /* tu color */
+  color: white;
+}
+
+
+.event-btn {
+  background-color: #702552;
+  color: white;
+  font-size: 1.1em;
+  padding: 10px 20px;
+  border-radius: 30px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+/* Efecto al pasar el mouse */
+.event-btn:hover {
+  background-color: #9a6685; /* color más claro para el hover */
+  color: white;
+  transform: scale(1.05);
+}

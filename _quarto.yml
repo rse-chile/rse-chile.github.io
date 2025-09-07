@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "RSE Chile"
+  navbar:
+    background: "#702552"
+    left:
+      - href: index.qmd
+        text: "inicio"
+      - href: eventos.qmd
+        text: "eventos"
+      - href: acerca-de.qmd
+        text: "acerca de"
+  page-footer: |
+   Hecho con <i class="fa-solid fa-heart"></i> y <i class="fa-solid fa-mug-hot"></i> usando [Quarto](https://quarto.org)
+format:
+  html:
+    css: styles.css
+    theme: cosmo
+    toc: true
+    mainfont: "Space Mono"
+    linkcolor: "#702552"
+

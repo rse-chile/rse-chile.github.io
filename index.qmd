@@ -1,0 +1,46 @@
+---
+title: "RSE Chile | Software para Investigación"
+body-classes: portada
+include-in-header:
+  text: |
+    <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
+about:
+  template: jolla
+  image-width: 10em
+
+---
+
+<div id="particles-js" style="position: fixed; width: 100%; height: 100%; top: 0; left: 0; z-index: -1;"></div>
+
+Buscamos aprender en comunidad y visibilizar el rol de quienes escriben código y sostienen la infraestructura técnica de proyectos de investigación. 
+
+<div style="text-align:center; margin-top:20px;">
+  <a href="eventos.html" class="btn event-btn">
+    <i class="fa-solid fa-mug-hot" style="margin-right:8px;"></i> próximos eventos
+  </a>
+</div>
+
+<script>
+  particlesJS('particles-js', {
+    particles: {
+      number: { value: 20 },
+      size: { value: 5 },
+      color: { value: "#9a6685" },
+      shape: {
+        type: "triangle",
+        stroke: { width: 0, color: "#000000" }
+      },
+      line_linked: {
+        enable: true,
+        distance: 150,
+        color: "#9a6685",
+        opacity: 0.4,
+        width: 1
+      },
+      move: { speed: 2 }
+    },
+    interactivity: {
+      events: { onhover: { enable: true, mode: "repulse" } }
+    }
+  });
+</script>

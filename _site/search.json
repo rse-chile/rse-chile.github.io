@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "eventos.html",
+    "href": "eventos.html",
+    "title": "Eventos",
+    "section": "",
+    "text": "¿Quieres publicar tu software como paper? En esta charla presentaremos qué es un artículo de software, qué revistas existen para publicarlos y algunas cosas a tener en cuenta sobre el proceso.registro"
+  },
+  {
+    "objectID": "eventos.html#próximos",
+    "href": "eventos.html#próximos",
+    "title": "Eventos",
+    "section": "",
+    "text": "¿Quieres publicar tu software como paper? En esta charla presentaremos qué es un artículo de software, qué revistas existen para publicarlos y algunas cosas a tener en cuenta sobre el proceso.registro"
+  },
+  {
+    "objectID": "eventos.html#pasados",
+    "href": "eventos.html#pasados",
+    "title": "Eventos",
+    "section": "Pasados",
+    "text": "Pasados\n\n\n\n\n\n  \n    \n    \n  \n  \n  \n    \nEstrategias para hacer tu código citableonline, 28 de agosto de 2025, 12:00 (UTC -4)¿Quieres que el código que escribiste se pueda citar? En esta charla presentaremos distintas aproximaciones para hacer tu software citable y discutiremos los beneficios y limitaciones de cada una.más info\n\n    \nBuenas prácticas de programación para proyectos de investigaciónSantiago, 21 al 23 de enero de 2025En este taller abordamos algunas de las habilidades fundacionales que usualmente se requieren al trabajar con software para investigación, con foco en buenas prácticas de programación que favorecen la reproducibilidad.más info"
+  },
+  {
+    "objectID": "acerca-de.html",
+    "href": "acerca-de.html",
+    "title": "¿RSE?",
+    "section": "",
+    "text": "¿RSE?\n¿Eres quien desarrolla o mantiene el código/software que se utiliza en un proyecto de investigación? En el contexto anglófono a quienes se encargan de estas tareas se les conoce como Research Software Engineers (RSE) y desde 2012 existe un movimiento que busca visibilizar este rol. Si bien investigar usualmente depende del uso de software, históricamente no ha existido un rol claramente definido para quienes se encargan de ese tipo de tareas. La mayoría de las veces son ayudantes de investigación, estudiantes de doctorado o postdocs quienes las asumen, a veces habiendo aprendido sobre la marcha y de manera informal las habilidades técnicas necesarias.\n&gt;&gt; Si quieres saber más sobre la historia del movimiento RSE, puedes revisar este post (en inglés)\n\nApoyos\nLa iniciativa de fundar un grupo local de RSE en Chile surgió en el marco del Fellowship de Riva Quiroga en el Software Sustainability Institute (SSI).\n\nAdemás, a fines de 2024 nos adjudicamos un “Community and Travel Fund” de la Asociación de RSE de Estados Unidos. Esos fondos nos permitieron organizar un taller presencial en enero de 2025 y adquirir la licencia de Zoom que utilizamos actualmente para nuestros eventos en línea."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RSE Chile | Software para Investigación",
+    "section": "",
+    "text": "Buscamos aprender en comunidad y visibilizar el rol de quienes escriben código y sostienen la infraestructura técnica de proyectos de investigación.\n\n  próximos eventos"
+  },
+  {
+    "objectID": "acerca-de.html#rse",
+    "href": "acerca-de.html#rse",
+    "title": "RSE Chile",
+    "section": "",
+    "text": "¿Eres quien desarrolla o mantiene el código/software que se utiliza en un proyecto de investigación? En el contexto anglófono a quienes se encargan de estas tareas se les conoce como Research Software Engineers (RSE) y desde 2012 existe un movimiento que busca visibilizar este rol. Si bien investigar usualmente depende del uso de software, históricamente no ha existido un rol claramente definido para quienes se encargan de ese tipo de tareas. La mayoría de las veces son ayudantes de investigación, estudiantes de doctorado o postdocs quienes las asumen, a veces habiendo aprendido sobre la marcha y de manera informal las habilidades técnicas necesarias.\n&gt;&gt; Si quieres saber más sobre la historia del movimiento RSE, puedes revisar este post (en inglés)\n\n\nEsta iniciativa partió en el marco del Fellowship de Riva Quiroga en el Software Sustainability Institute (SSI).\n¡Muchas gracias SSI!\n\nAdemás, a fines de 2024 nos adjudicamos un “Community and Travel Fund” de la Asociación de RSE de Estados Unidos. Esos fondos nos permitieron organizar un taller presencial en enero de 2025 y adquirir la licencia de Zoom que utilizamos actualmente."
+  }
+]

@@ -1,0 +1,128 @@
+---
+title: "Eventos"
+html-table-processing: none
+toc: false
+---
+
+```{r}
+#| echo: false
+#| message: false
+
+library(gt)
+library(dplyr)
+library(readr)
+library(fontawesome)
+eventos <- read_tsv("data/eventos.csv")
+
+```
+
+
+## Próximos
+
+```{r}
+#| echo: false
+
+eventos |> 
+    filter(estado == "próximo") |> 
+    rowwise() |> 
+    mutate(descripcion = paste0(
+        "<h4><strong>", titulo, "</strong></h4>",
+        "<h6><strong>", coordenadas, "</strong></h6>",
+        "<p>", resumen, "</p>",
+        "<a class='boton' href='", enlace, "'>registro</a>")) |>
+    select(icon, descripcion) |> 
+    gt() |> 
+    fmt_markdown(columns = everything()) |> 
+    tab_options(column_labels.hidden = TRUE) |> 
+    cols_align(
+        align = "left",
+        columns = descripcion
+        ) |> 
+    fmt_icon(
+        columns = icon, 
+        height = "3em",
+        fill_color = "#9a6685",
+        a11y = "decorative") |> 
+    cols_width(
+    icon ~ pct(15),
+    descripcion ~ pct(85)
+    
+  ) |>
+    opt_horizontal_padding(scale = 3) |> 
+    cols_align(align = "center", columns = icon) |> 
+    tab_style(
+    style = "vertical-align: top;",
+    locations = cells_body(columns = icon)
+  ) |>  
+  tab_options(
+    table.background.color = NULL,
+    )  |> 
+    opt_table_outline(style = "solid", width = px(4), color = "#d4bdcb") |> 
+  tab_style(
+    style = cell_borders(
+      sides = c("top", "bottom"),
+      color = "#d4bdcb",
+      weight = px(2),
+      style = "solid"
+    ),
+    locations = cells_body()
+  )
+
+
+```
+
+## Pasados
+
+```{r}
+#| echo: false
+
+eventos |> 
+    filter(estado == "pasado") |> 
+    arrange(desc(fecha_iso)) |> 
+    rowwise() |> 
+    mutate(descripcion = paste0(
+        "<h4><strong>", titulo, "</strong></h4>",
+        "<h6><strong>", coordenadas, "</strong></h6>",
+        "<p>", resumen, "</p>",
+        "<a class='boton' href='", enlace, "'>más info</a>")) |>
+    select(icon, descripcion) |> 
+    gt() |> 
+    fmt_markdown(columns = everything()) |> 
+    tab_options(column_labels.hidden = TRUE) |> 
+    cols_align(
+        align = "left",
+        columns = descripcion
+        ) |> 
+    fmt_icon(
+        columns = icon, 
+        height = "3em",
+        fill_color = "#9a6685",
+        a11y = "decorative") |> 
+    cols_width(
+    icon ~ pct(15),
+    descripcion ~ pct(85)
+    
+  ) |>
+    opt_horizontal_padding(scale = 3) |> 
+    cols_align(align = "center", columns = icon) |> 
+    tab_style(
+    style = "vertical-align: top;",
+    locations = cells_body(columns = icon)
+  ) |>  
+  tab_options(
+    table.background.color = NULL,
+    )  |> 
+    opt_table_outline(style = "solid", width = px(4), color = "#d4bdcb") |> 
+  tab_style(
+    style = cell_borders(
+      sides = c("top", "bottom"),
+      color = "#d4bdcb",
+      weight = px(2),
+      style = "solid"
+    ),
+    locations = cells_body()
+  )
+
+
+```
+
