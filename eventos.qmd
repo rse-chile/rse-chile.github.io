@@ -40,7 +40,7 @@ eventos |>
         ) |> 
     fmt_icon(
         columns = icon, 
-        height = "3em",
+        height = "2em",
         fill_color = "#9a6685",
         a11y = "decorative") |> 
     cols_width(
@@ -95,9 +95,10 @@ eventos |>
         ) |> 
     fmt_icon(
         columns = icon, 
-        height = "3em",
+        height = "2em",
         fill_color = "#9a6685",
-        a11y = "decorative") |> 
+        a11y = "decorative"
+        ) |> 
     cols_width(
     icon ~ pct(15),
     descripcion ~ pct(85)

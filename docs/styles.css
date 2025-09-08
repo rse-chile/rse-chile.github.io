@@ -50,3 +50,16 @@
   color: white;
   transform: scale(1.05);
 }
+
+
+.icono-gt {
+  height: 3em;
+  width: auto;
+}
+
+/* Ajuste responsivo para pantallas pequeñas */
+@media (max-width: 600px) {
+  .icono-gt {
+    height: 2em; /* o 1.5em, lo que se vea bien */
+  }
+}
