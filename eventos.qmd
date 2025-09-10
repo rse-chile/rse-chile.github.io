@@ -29,7 +29,7 @@ eventos |>
         "<h4><strong>", titulo, "</strong></h4>",
         "<h6><strong>", coordenadas, "</strong></h6>",
         "<p>", resumen, "</p>",
-        "<a class='boton' href='", enlace, "'>registro</a>")) |>
+        "<a class='boton' href='", enlace, "'>", boton, "</a>")) |>
     select(icon, descripcion) |> 
     gt() |> 
     fmt_markdown(columns = everything()) |> 
