@@ -25,7 +25,7 @@
     "href": "acerca-de.html",
     "title": "¿RSE?",
     "section": "",
-    "text": "¿Eres quien desarrolla o mantiene el código/software que se utiliza en un proyecto de investigación? En el contexto anglófono a quienes se encargan de estas tareas se les conoce como Research Software Engineers (RSE) y desde 2012 existe un movimiento que busca visibilizar esta actividad. Si bien investigar usualmente depende del uso de software, históricamente no ha existido un rol claramente definido para quienes se encargan de ese tipo de tareas. La mayoría de las veces son ayudantes de investigación, estudiantes de doctorado o postdocs quienes las asumen, a veces habiendo aprendido sobre la marcha y de manera informal las habilidades técnicas necesarias.\n&gt;&gt; Si quieres saber más sobre la historia del movimiento RSE, puedes revisar este post (en inglés)\n\n\nLa iniciativa de fundar un grupo local de RSE en Chile surgió en el marco del Fellowship de Riva Quiroga en el Software Sustainability Institute (SSI).\n\nAdemás, a fines de 2024 nos adjudicamos un “Community and Travel Fund” de la Asociación de RSE de Estados Unidos. Esos fondos nos permitieron organizar un taller presencial en enero de 2025 y adquirir la licencia de Zoom que utilizamos actualmente para nuestros eventos en línea.\n\n\n\n\nLas actividades de la comunidad son coordinadas actualmente por Riva Quiroga y Sara Acevedo."
+    "text": "¿RSE?\n¿Eres quien desarrolla o mantiene el código/software que se utiliza en un proyecto de investigación? En el contexto anglófono a quienes se encargan de estas tareas se les conoce como Research Software Engineers (RSE) y desde 2012 existe un movimiento que busca visibilizar esta actividad. Si bien investigar usualmente depende del uso de software, históricamente no ha existido un rol claramente definido para quienes se encargan de su desarrollo y mantenimiento. La mayoría de las veces son ayudantes de investigación, estudiantes de doctorado o postdocs quienes asumen estas tareas, a veces habiendo aprendido sobre la marcha y de manera informal las habilidades técnicas necesarias.\n&gt;&gt; Si quieres saber más sobre la historia del movimiento RSE, puedes revisar este post (en inglés)\n\nApoyos\nLa iniciativa de fundar un grupo local de RSE en Chile surgió en el marco del Fellowship de Riva Quiroga en el Software Sustainability Institute (SSI).\n\nAdemás, a fines de 2024 nos adjudicamos un “Community and Travel Fund” de la Asociación de RSE de Estados Unidos. Esos fondos nos permitieron organizar un taller presencial en enero de 2025 y adquirir la licencia de Zoom que utilizamos actualmente para nuestros eventos en línea.\n\n\n\nRed\nDesde 2025 somos asociación observadora del International Council of RSE Associations.\n\n\nCoordinación\nLas actividades de la comunidad son coordinadas actualmente por Riva Quiroga y Sara Acevedo."
   },
   {
     "objectID": "index.html",
@@ -39,6 +39,13 @@
     "href": "acerca-de.html#coordinación",
     "title": "¿RSE?",
     "section": "",
-    "text": "Las actividades de la comunidad son coordinadas actualmente por Riva Quiroga y Sara Acevedo."
+    "text": "Las actividades de la comunidad son coordinadas actualmente por Riva Quiroga y Sara Acevedo.\n Desde 2025 somos asociación observadora del International Council of RSE Associations."
+  },
+  {
+    "objectID": "acerca-de.html#red",
+    "href": "acerca-de.html#red",
+    "title": "¿RSE?",
+    "section": "",
+    "text": "Somos asociación observadora del International Council of RSE Associations."
   }
 ]
