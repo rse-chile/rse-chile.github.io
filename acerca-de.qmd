@@ -4,7 +4,7 @@ toc: false
 
 # ¿RSE?
 
-**¿Eres quien desarrolla o mantiene el código/software que se utiliza en un proyecto de investigación?** En el contexto anglófono a quienes se encargan de estas tareas se les conoce como _Research Software Engineers_ (RSE) y desde 2012 existe un movimiento que busca visibilizar este rol. 
+**¿Eres quien desarrolla o mantiene el código/software que se utiliza en un proyecto de investigación?** En el contexto anglófono a quienes se encargan de estas tareas se les conoce como _Research Software Engineers_ (RSE) y desde 2012 existe un movimiento que busca visibilizar esta actividad. 
 Si bien investigar usualmente depende del uso de software, históricamente no ha existido un rol claramente definido para quienes se encargan de ese tipo de tareas. La mayoría de las veces son ayudantes de investigación, estudiantes de doctorado o postdocs quienes las asumen, a veces habiendo aprendido sobre la marcha y de manera informal las habilidades técnicas necesarias. 
 
 \>\> Si quieres saber más sobre la historia del movimiento RSE, puedes revisar [este post (en inglés)](https://www.software.ac.uk/blog/not-so-brief-history-research-software-engineers)
@@ -18,3 +18,7 @@ La iniciativa de fundar un grupo local de RSE en Chile surgió en el marco del F
 Además, a fines de 2024 nos adjudicamos un "Community and Travel Fund" de la [Asociación de RSE de Estados Unidos](https://us-rse.org). Esos fondos nos permitieron organizar un taller presencial en enero de 2025 y adquirir la licencia de Zoom que utilizamos actualmente para nuestros eventos en línea.
 
 ![](/img/usrse-logo.png){height="100px" style="left; margin-right:10px;"}
+
+## Coordinación
+
+Las actividades de la comunidad son coordinadas actualmente por [Riva Quiroga](https://rivaquiroga.cl/) y [Sara Acevedo](https://saryace.github.io/).

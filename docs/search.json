@@ -4,14 +4,14 @@
     "href": "eventos.html",
     "title": "Eventos",
     "section": "",
-    "text": "¿Quieres publicar tu software como paper? En esta charla presentaremos qué es un artículo de software, qué revistas existen para publicarlos y algunas cosas a tener en cuenta sobre el proceso.registro\n\n    \nEn esta charla abordaremos la importancia de citar el software que utilizamos en nuestras investigaciones y veremos cuáles son los metadatos que es necesario considerar en las referencias¡pronto!"
+    "text": "¿Quieres publicar tu software como paper? En esta charla presentaremos qué es un artículo de software, qué revistas existen para publicarlos y algunas cosas a tener en cuenta sobre el proceso.registro\n\n    \nEl segundo jueves de octubre es el día internacional del software de investigación y lo celebraremos con un evento multi-comunidades. ¡Pronto más detalles!¡pronto!\n\n    \nEn esta charla abordaremos la importancia de citar el software que utilizamos en nuestras investigaciones y veremos cuáles son los metadatos que es necesario considerar en las referencias¡pronto!"
   },
   {
     "objectID": "eventos.html#próximos",
     "href": "eventos.html#próximos",
     "title": "Eventos",
     "section": "",
-    "text": "¿Quieres publicar tu software como paper? En esta charla presentaremos qué es un artículo de software, qué revistas existen para publicarlos y algunas cosas a tener en cuenta sobre el proceso.registro\n\n    \nEn esta charla abordaremos la importancia de citar el software que utilizamos en nuestras investigaciones y veremos cuáles son los metadatos que es necesario considerar en las referencias¡pronto!"
+    "text": "¿Quieres publicar tu software como paper? En esta charla presentaremos qué es un artículo de software, qué revistas existen para publicarlos y algunas cosas a tener en cuenta sobre el proceso.registro\n\n    \nEl segundo jueves de octubre es el día internacional del software de investigación y lo celebraremos con un evento multi-comunidades. ¡Pronto más detalles!¡pronto!\n\n    \nEn esta charla abordaremos la importancia de citar el software que utilizamos en nuestras investigaciones y veremos cuáles son los metadatos que es necesario considerar en las referencias¡pronto!"
   },
   {
     "objectID": "eventos.html#pasados",
@@ -25,7 +25,7 @@
     "href": "acerca-de.html",
     "title": "¿RSE?",
     "section": "",
-    "text": "¿RSE?\n¿Eres quien desarrolla o mantiene el código/software que se utiliza en un proyecto de investigación? En el contexto anglófono a quienes se encargan de estas tareas se les conoce como Research Software Engineers (RSE) y desde 2012 existe un movimiento que busca visibilizar este rol. Si bien investigar usualmente depende del uso de software, históricamente no ha existido un rol claramente definido para quienes se encargan de ese tipo de tareas. La mayoría de las veces son ayudantes de investigación, estudiantes de doctorado o postdocs quienes las asumen, a veces habiendo aprendido sobre la marcha y de manera informal las habilidades técnicas necesarias.\n&gt;&gt; Si quieres saber más sobre la historia del movimiento RSE, puedes revisar este post (en inglés)\n\nApoyos\nLa iniciativa de fundar un grupo local de RSE en Chile surgió en el marco del Fellowship de Riva Quiroga en el Software Sustainability Institute (SSI).\n\nAdemás, a fines de 2024 nos adjudicamos un “Community and Travel Fund” de la Asociación de RSE de Estados Unidos. Esos fondos nos permitieron organizar un taller presencial en enero de 2025 y adquirir la licencia de Zoom que utilizamos actualmente para nuestros eventos en línea."
+    "text": "¿Eres quien desarrolla o mantiene el código/software que se utiliza en un proyecto de investigación? En el contexto anglófono a quienes se encargan de estas tareas se les conoce como Research Software Engineers (RSE) y desde 2012 existe un movimiento que busca visibilizar esta actividad. Si bien investigar usualmente depende del uso de software, históricamente no ha existido un rol claramente definido para quienes se encargan de ese tipo de tareas. La mayoría de las veces son ayudantes de investigación, estudiantes de doctorado o postdocs quienes las asumen, a veces habiendo aprendido sobre la marcha y de manera informal las habilidades técnicas necesarias.\n&gt;&gt; Si quieres saber más sobre la historia del movimiento RSE, puedes revisar este post (en inglés)\n\n\nLa iniciativa de fundar un grupo local de RSE en Chile surgió en el marco del Fellowship de Riva Quiroga en el Software Sustainability Institute (SSI).\n\nAdemás, a fines de 2024 nos adjudicamos un “Community and Travel Fund” de la Asociación de RSE de Estados Unidos. Esos fondos nos permitieron organizar un taller presencial en enero de 2025 y adquirir la licencia de Zoom que utilizamos actualmente para nuestros eventos en línea.\n\n\n\n\nLas actividades de la comunidad son coordinadas actualmente por Riva Quiroga y Sara Acevedo."
   },
   {
     "objectID": "index.html",
@@ -33,5 +33,12 @@
     "title": "RSE Chile | Software para Investigación",
     "section": "",
     "text": "Buscamos aprender en comunidad y visibilizar el rol de quienes escriben código y sostienen la infraestructura técnica de proyectos de investigación.\n\n  próximos eventos"
+  },
+  {
+    "objectID": "acerca-de.html#coordinación",
+    "href": "acerca-de.html#coordinación",
+    "title": "¿RSE?",
+    "section": "",
+    "text": "Las actividades de la comunidad son coordinadas actualmente por Riva Quiroga y Sara Acevedo."
   }
 ]
