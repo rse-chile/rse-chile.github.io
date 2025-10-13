@@ -19,6 +19,12 @@
   background-color: #9a6685; /* color más oscuro al pasar el mouse */
 }
 
+.botones {
+  display: flex;
+  gap: 0.5em; 
+  flex-wrap: wrap; 
+}
+
 .navbar-nav .nav-link:hover {
   color: #d4bdcb !important;
 }

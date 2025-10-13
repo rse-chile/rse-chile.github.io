@@ -80,11 +80,24 @@ eventos |>
     filter(estado == "pasado") |> 
     arrange(desc(fecha_iso)) |> 
     rowwise() |> 
-    mutate(descripcion = paste0(
-        "<h4><strong>", titulo, "</strong></h4>",
-        "<h6><strong>", coordenadas, "</strong></h6>",
-        "<p>", resumen, "</p>",
-        "<a class='boton' href='", enlace, "'>más info</a>")) |>
+    mutate(descripcion = if_else(
+      grabacion == TRUE, 
+      paste0(
+         "<h4><strong>", titulo, "</strong></h4>",
+    "<h6><strong>", coordenadas, "</strong></h6>",
+    "<p>", resumen, "</p>",
+    "<div class='botones'>",
+      "<a class='boton' href='", enlace, "'>más info</a>",
+      "<a class='boton' href='", enlace_grabacion, "'>grabación</a>",
+    "</div>"),
+      paste0(
+         "<h4><strong>", titulo, "</strong></h4>",
+    "<h6><strong>", coordenadas, "</strong></h6>",
+    "<p>", resumen, "</p>",
+    "<div class='botones'>",
+      "<a class='boton' href='", enlace, "'>más info</a>",
+    "</div>"),    
+        )) |>
     select(icon, descripcion) |> 
     gt() |> 
     fmt_markdown(columns = everything()) |> 
