@@ -20,6 +20,18 @@ Buscamos aprender en comunidad y visibilizar el rol de quienes escriben código 
   </a>
 </div>
 
+<div style="text-align:center; margin-top:20px; font-size:1.5em;">
+  <a href="https://www.linkedin.com/company/rse-chile" target="_blank" style="margin: 0 10px; text-decoration: none;" title="LinkedIn">
+    <i class="fa-brands fa-linkedin"></i>
+  </a>
+  <a href="https://www.youtube.com/@RSEChile" target="_blank" style="margin: 0 10px; text-decoration: none;" title="YouTube">
+    <i class="fa-brands fa-youtube"></i>
+  </a>
+  <a href="https://zenodo.org/communities/rse-chile/" target="_blank" style="margin: 0 10px; text-decoration: none;" title="Zenodo">
+    <i class="fa-solid fa-box-archive"></i>
+  </a>
+</div>
+
 <script>
   particlesJS('particles-js', {
     particles: {
