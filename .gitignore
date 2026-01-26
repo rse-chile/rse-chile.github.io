@@ -1,2 +1,4 @@
 /.quarto/
 .DS_Store
+.Rhistory
+img/.DS_Store
