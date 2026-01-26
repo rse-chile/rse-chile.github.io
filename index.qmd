@@ -1,5 +1,5 @@
 ---
-title: "RSE Chile | Software para Investigación"
+title: "RSE Chile | Software de Investigación"
 body-classes: portada
 include-in-header:
   text: |
