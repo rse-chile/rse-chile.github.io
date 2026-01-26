@@ -27,3 +27,6 @@ Desde 2025 somos asociación observadora del [International Council of RSE Assoc
 
 Las actividades de la comunidad son coordinadas actualmente por [Riva Quiroga](https://rivaquiroga.cl/) y [Sara Acevedo](https://saryace.github.io/).
 
+### Código de conducta
+
+Todas nuestras actividades se rigen por un [Código de Conducta](/codigo-de-conducta.html).

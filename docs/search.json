@@ -21,11 +21,60 @@
     "text": "Pasados\n\n\n\n\n\n  \n    \n    \n  \n  \n  \n    \n#IntlRSEDayonline, 9 de octubre, 14:00 (UTC -3)El segundo jueves de octubre es el día internacional del software de investigación y lo celebramos con un evento multi-comunidades en que conocimos más acerca de qué es RSE, qué novedades dejó la RSECon y cómo es el trabajo de una RSE.más infograbación\n\n    \nCómo publicar un paper sobre softwareonline, 25 de septiembre de 2025, 12:00 (UTC -3)¿Quieres publicar tu software como paper? En esta charla presentaremos qué es un artículo de software, qué revistas existen para publicarlos y algunas cosas a tener en cuenta sobre el proceso.más infograbación\n\n    \nEstrategias para hacer tu código citableonline, 28 de agosto de 2025, 12:00 (UTC -4)¿Quieres que el código que escribiste se pueda citar? En esta charla presentaremos distintas aproximaciones para hacer tu software citable y discutiremos los beneficios y limitaciones de cada una.más infograbación\n\n    \nBuenas prácticas de programación para proyectos de investigaciónSantiago, 21 al 23 de enero de 2025En este taller abordamos algunas de las habilidades fundacionales que usualmente se requieren al trabajar con software para investigación, con foco en buenas prácticas de programación que favorecen la reproducibilidad.más info"
   },
   {
+    "objectID": "codigo-de-conducta.html",
+    "href": "codigo-de-conducta.html",
+    "title": "Código de conducta",
+    "section": "",
+    "text": "Este Código de Conducta es una adaptación del Contributor Covenant, versión 2.1, disponible en https://www.contributor-covenant.org/es/version/2/1/code_of_conduct.html"
+  },
+  {
+    "objectID": "codigo-de-conducta.html#nuestro-compromiso",
+    "href": "codigo-de-conducta.html#nuestro-compromiso",
+    "title": "Código de conducta",
+    "section": "Nuestro compromiso",
+    "text": "Nuestro compromiso\nNos comprometemos a hacer que la participación en nuestra comunidad sea una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, discapacidad visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, casta, color, religión, identidad u orientación sexual, u opciones teconológicas.\nNos comprometemos a actuar e interactuar de maneras que contribuyan a una comunidad abierta, acogedora, diversa, inclusiva y sana."
+  },
+  {
+    "objectID": "codigo-de-conducta.html#nuestros-estándares",
+    "href": "codigo-de-conducta.html#nuestros-estándares",
+    "title": "Código de conducta",
+    "section": "Nuestros estándares",
+    "text": "Nuestros estándares\nEjemplos de comportamientos que contribuyen a crear un ambiente positivo para nuestra comunidad:\n\nDemostrar empatía y amabilidad ante otras personas\nRespeto a diferentes opiniones, puntos de vista y experiencias\nDar y aceptar adecuadamente retroalimentación constructiva\nAceptar la responsabilidad y disculparse ante quienes se vean afectados por nuestros errores, aprendiendo de la experiencia\nCentrarse en lo que sea mejor no solo para nosotros como individuos, sino para la comunidad en general\n\nEjemplos de comportamiento inaceptable:\n\nEl uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo\nComentarios despectivos (trolling), insultantes o derogatorios y ataques personales o políticos\nEl acoso en público o privado\nPublicar información privada de otras personas, tales como direcciones físicas o de correo electrónico, sin su permiso explícito\nOtras conductas que puedan ser razonablemente consideradas como inapropiadas en un entorno profesional"
+  },
+  {
+    "objectID": "codigo-de-conducta.html#aplicación-de-las-responsabilidades",
+    "href": "codigo-de-conducta.html#aplicación-de-las-responsabilidades",
+    "title": "Código de conducta",
+    "section": "Aplicación de las responsabilidades",
+    "text": "Aplicación de las responsabilidades\nLas personas que administran la comunidad son responsables de aclarar y hacer cumplir nuestros estándares de comportamiento aceptable y tomarán acciones apropiadas y correctivas de forma justa en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo o dañino.\nLas personas que administran la comunidad tendrán el derecho y la responsabilidad de eliminar, editar o rechazar mensajes, comentarios, commits, código, issues y otras contribuciones que no se alineen con este Código de Conducta, y comunicarán las razones para sus decisiones de moderación cuando sea apropiado."
+  },
+  {
+    "objectID": "codigo-de-conducta.html#alcance",
+    "href": "codigo-de-conducta.html#alcance",
+    "title": "Código de conducta",
+    "section": "Alcance",
+    "text": "Alcance\nEste código de conducta aplica tanto a espacios del proyecto como a espacios públicos donde un individuo esté en representación del proyecto o comunidad. Ejemplos de esto incluyen el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos en línea o no."
+  },
+  {
+    "objectID": "codigo-de-conducta.html#aplicación",
+    "href": "codigo-de-conducta.html#aplicación",
+    "title": "Código de conducta",
+    "section": "Aplicación",
+    "text": "Aplicación\nInstancias de comportamiento abusivo, acosador o inaceptable podrán ser reportadas a las administradoras de la comunidad a través del correo electrónico rse.chile@proton.me. Todas las quejas serán evaluadas e investigadas de una manera puntual y justa.\nLas administradoras de la comunidad están obligados a respetar la privacidad y la seguridad de quienes reporten incidentes."
+  },
+  {
+    "objectID": "codigo-de-conducta.html#atribución",
+    "href": "codigo-de-conducta.html#atribución",
+    "title": "Código de conducta",
+    "section": "Atribución",
+    "text": "Atribución\nEste Código de Conducta es una adaptación del [Contributor Covenant][homepage], versión 2.1, disponible en https://www.contributor-covenant.org/es/version/2/1/code_of_conduct.html\nPara respuestas a las preguntas frecuentes de este código de conducta, consulta las FAQ en https://www.contributor-covenant.org/faq. Hay traducciones disponibles en https://www.contributor-covenant.org/translations"
+  },
+  {
     "objectID": "acerca-de.html",
     "href": "acerca-de.html",
     "title": "¿RSE?",
     "section": "",
-    "text": "¿RSE?\n¿Eres quien desarrolla o mantiene el código/software que se utiliza en un proyecto de investigación? En el contexto anglófono a quienes se encargan de estas tareas se les conoce como Research Software Engineers (RSE) y desde 2012 existe un movimiento que busca visibilizar esta actividad. Si bien investigar usualmente depende del uso de software, históricamente no ha existido un rol claramente definido para quienes se encargan de su desarrollo y mantenimiento. La mayoría de las veces son ayudantes de investigación, estudiantes de doctorado o postdocs quienes asumen estas tareas, a veces habiendo aprendido sobre la marcha y de manera informal las habilidades técnicas necesarias.\n&gt;&gt; Si quieres saber más sobre la historia del movimiento RSE, puedes revisar este post (en inglés)\n\nApoyos\nLa iniciativa de fundar un grupo local de RSE en Chile surgió en el marco del Fellowship de Riva Quiroga en el Software Sustainability Institute (SSI).\n\nAdemás, a fines de 2024 nos adjudicamos un “Community and Travel Fund” de la Asociación de RSE de Estados Unidos. Esos fondos nos permitieron organizar un taller presencial en enero de 2025 y adquirir la licencia de Zoom que utilizamos actualmente para nuestros eventos en línea.\n\n\n\nRed\nDesde 2025 somos asociación observadora del International Council of RSE Associations.\n\n\nCoordinación\nLas actividades de la comunidad son coordinadas actualmente por Riva Quiroga y Sara Acevedo."
+    "text": "¿RSE?\n¿Eres quien desarrolla o mantiene el código/software que se utiliza en un proyecto de investigación? En el contexto anglófono a quienes se encargan de estas tareas se les conoce como Research Software Engineers (RSE) y desde 2012 existe un movimiento que busca visibilizar esta actividad. Si bien investigar usualmente depende del uso de software, históricamente no ha existido un rol claramente definido para quienes se encargan de su desarrollo y mantenimiento. La mayoría de las veces son ayudantes de investigación, estudiantes de doctorado o postdocs quienes asumen estas tareas, a veces habiendo aprendido sobre la marcha y de manera informal las habilidades técnicas necesarias.\n&gt;&gt; Si quieres saber más sobre la historia del movimiento RSE, puedes revisar este post (en inglés)\n\nApoyos\nLa iniciativa de fundar un grupo local de RSE en Chile surgió en el marco del Fellowship de Riva Quiroga en el Software Sustainability Institute (SSI).\n\nAdemás, a fines de 2024 nos adjudicamos un “Community and Travel Fund” de la Asociación de RSE de Estados Unidos. Esos fondos nos permitieron organizar un taller presencial en enero de 2025 y adquirir la licencia de Zoom que utilizamos actualmente para nuestros eventos en línea.\n\n\n\nRed\nDesde 2025 somos asociación observadora del International Council of RSE Associations.\n\n\nCoordinación\nLas actividades de la comunidad son coordinadas actualmente por Riva Quiroga y Sara Acevedo.\n\n\nCódigo de conducta\nTodas nuestras actividades se rigen por un Código de Conducta."
   },
   {
     "objectID": "index.html",
