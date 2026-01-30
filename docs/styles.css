@@ -63,6 +63,15 @@
   width: auto;
 }
 
+.social-icon {
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.social-icon:hover {
+  color: #9a6685;
+}
+
 /* Ajuste responsivo para pantallas pequeñas */
 @media (max-width: 600px) {
   .icono-gt {

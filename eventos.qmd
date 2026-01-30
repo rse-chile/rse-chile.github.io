@@ -76,27 +76,43 @@ eventos |>
 ```{r}
 #| echo: false
 
-eventos |> 
-    filter(estado == "pasado") |> 
-    arrange(desc(fecha_iso)) |> 
-    rowwise() |> 
-    mutate(descripcion = if_else(
-      grabacion == TRUE, 
-      paste0(
+eventos |>
+    filter(estado == "pasado") |>
+    arrange(desc(fecha_iso)) |>
+    rowwise() |>
+    mutate(descripcion = case_when(
+      grabacion == TRUE & slides == TRUE ~ paste0(
          "<h4><strong>", titulo, "</strong></h4>",
-    "<h6><strong>", coordenadas, "</strong></h6>",
-    "<p>", resumen, "</p>",
-    "<div class='botones'>",
-      "<a class='boton' href='", enlace, "'>más info</a>",
-      "<a class='boton' href='", enlace_grabacion, "'>grabación</a>",
-    "</div>"),
-      paste0(
+         "<h6><strong>", coordenadas, "</strong></h6>",
+         "<p>", resumen, "</p>",
+         "<div class='botones'>",
+           "<a class='boton' href='", enlace, "'>más info</a>",
+           "<a class='boton' href='", enlace_grabacion, "'>grabación</a>",
+           "<a class='boton' href='", enlace_slides, "'>slides</a>",
+         "</div>"),
+      grabacion == TRUE ~ paste0(
          "<h4><strong>", titulo, "</strong></h4>",
-    "<h6><strong>", coordenadas, "</strong></h6>",
-    "<p>", resumen, "</p>",
-    "<div class='botones'>",
-      "<a class='boton' href='", enlace, "'>más info</a>",
-    "</div>"),    
+         "<h6><strong>", coordenadas, "</strong></h6>",
+         "<p>", resumen, "</p>",
+         "<div class='botones'>",
+           "<a class='boton' href='", enlace, "'>más info</a>",
+           "<a class='boton' href='", enlace_grabacion, "'>grabación</a>",
+         "</div>"),
+      slides == TRUE ~ paste0(
+         "<h4><strong>", titulo, "</strong></h4>",
+         "<h6><strong>", coordenadas, "</strong></h6>",
+         "<p>", resumen, "</p>",
+         "<div class='botones'>",
+           "<a class='boton' href='", enlace, "'>más info</a>",
+           "<a class='boton' href='", enlace_slides, "'>slides</a>",
+         "</div>"),
+      TRUE ~ paste0(
+         "<h4><strong>", titulo, "</strong></h4>",
+         "<h6><strong>", coordenadas, "</strong></h6>",
+         "<p>", resumen, "</p>",
+         "<div class='botones'>",
+           "<a class='boton' href='", enlace, "'>más info</a>",
+         "</div>")
         )) |>
     select(icon, descripcion) |> 
     gt() |> 
